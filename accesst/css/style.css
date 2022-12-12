@@ -1,0 +1,36 @@
+*{
+
+}
+/* this is hader */
+.header-pp{
+  
+   
+
+}
+/* this is main */
+.bannar-text{
+ padding:100px 100px;
+ text-align: center;
+}
+.bannar{
+color: aliceblue;
+background-image:url("/img/bannar.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.bannar h1{
+    font-weight: 800;
+}
+.bannar p{
+    font-weight: 600;
+}
+/* thsi is my self */
+.img-self{
+  border-radius: 50px;
+}
+.my-self-text{
+    justify-items: center;
+    align-items: center;
+}
