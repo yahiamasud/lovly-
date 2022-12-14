@@ -40,10 +40,11 @@ background-size: cover;
 .bannge{
     position: absolute;
     top: 30px;
-    background-color: rgb(27, 207, 213);
+    background-color: rgb(194, 194, 194);
     padding:5px 10px;
     border-radius:10px;
     right: -20px;
+    color: white;
     
 
 }
@@ -58,4 +59,18 @@ background-size: cover;
     justify-content:center;
     
     
+}
+/* this is bage teg  */
+.badge-teg{
+    position: relative;
+}
+.box-bage{
+    position: absolute;
+    top:0px;
+    padding:5px 20px;
+    background-color: aqua;
+    border-radius:10px;
+    margin-left:10px;
+    margin-top:10px;
+    color: crimson;
 }
