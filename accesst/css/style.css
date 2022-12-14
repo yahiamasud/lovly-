@@ -34,3 +34,28 @@ background-size: cover;
     justify-items: center;
     align-items: center;
 }
+.my-self-img{
+    position: relative;
+}
+.bannge{
+    position: absolute;
+    top: 30px;
+    background-color: rgb(27, 207, 213);
+    padding:5px 10px;
+    border-radius:10px;
+    right: -20px;
+    
+
+}
+
+
+.my-self-text{
+    offset:2;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    
+    
+}
