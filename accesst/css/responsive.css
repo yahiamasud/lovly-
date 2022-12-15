@@ -1,0 +1,55 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    /* <!-- this is heade start  --> */
+    .navbar-nav .nav-item{
+        margin-top:20px;
+       
+    }
+    /* <!-- this is my self --> */
+    .my-self-text{
+        offset: none !important;
+    }
+    /* <!-- this is card  --> */
+    .card-home{
+        display: flex;
+        flex-direction: ;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+   /* <!-- this is heade start  --> */
+    .navbar-nav .nav-item{
+        margin-top:20px;
+    
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+       /* <!-- this is heade start  --> */
+       .navbar-nav .nav-item{
+        margin-top:20px;
+       
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+       /* <!-- this is heade start  --> */
+       .navbar-nav .nav-item{
+        margin-top:20px;
+       
+    }
+    /* <!-- this is my self --> */
+    .my-self-text p{
+        height:300px;
+        border:1px solid black;
+        overflow: scroll;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) {
+ 
+}
